@@ -4,6 +4,13 @@
 -I’m currently learning C, C++, JS, CSS, HTML, Python, OpenCV
 ![Github logo](78800556.png "Github logo")
 
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 
 [fastInvSqRtAlgDynProg(3).pdf](https://github.com/mannequinSkywalker/projects-github.io/files/6651848/fastInvSqRtAlgDynProg.3.pdf)
 
