@@ -9,6 +9,10 @@
 
 {% include youTubePlayer.html id=page.youtubeId:(https://youtu.be/RD0a7BCXgOQ) %}
 
+<iframe width="420" height="315"
+src="https://youtu.be/RD0a7BCXgOQ">
+</iframe>
+
 
 
 
