@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 
-
 # -whoami 
 #Will Boos
 
