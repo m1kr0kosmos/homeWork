@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 # -whoami 
 #Will Boos
 
@@ -9,11 +10,14 @@
 
 //{% include youTubePlayer.html id=page.youtubeId:(https://youtu.be/RD0a7BCXgOQ) %}//
 
+<html>
+<body>
 
-<iframe width="420" height="315"
-src="https://youtube.com/embed/playlist?list=PLnDa9Vgvbp0JVUvuwy6A3P4mHeMjwMBmV">
+<iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY?playlist=tgbNymZ7vqY&loop=1">
 </iframe>
 
+</body>
+</html>
 
 
 
