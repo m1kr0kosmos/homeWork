@@ -1,7 +1,7 @@
-# AI21 Jurassic 1 Beta-Testing & Research
--whoami Will Boos
+# -whoami 
+#Will Boos
 
-screen captures of the 178 billion parameter Neural Network
+
 
 ![Github logo](78800556.png "Github logo")
 
