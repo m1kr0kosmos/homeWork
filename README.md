@@ -11,7 +11,7 @@
 
 
 <iframe width="420" height="315"
-src="https://youtube.com/embed/tgbNymZ7vqY?playlist?list=PLnDa9Vgvbp0JVUvuwy6A3P4mHeMjwMBmV">
+src="https://youtube.com/embed/playlist?list=PLnDa9Vgvbp0JVUvuwy6A3P4mHeMjwMBmV">
 </iframe>
 
 
