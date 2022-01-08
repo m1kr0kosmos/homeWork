@@ -7,7 +7,7 @@ screen captures of the 178 billion parameter Neural Network
 
 [![Watch the video](E5684F7C-212E-48BD-B71D-C46652DE9B78.png "YouTube")](https://youtu.be/RD0a7BCXgOQ)
 
-
+{% include youtubePlayer.html id="RD0a7BCXgOQ" %}
 
 
 
