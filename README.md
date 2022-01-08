@@ -1,7 +1,6 @@
-# projects-github.io
+# AI21 Jurassic 1 Beta-Testing & Research
 -whoami Will Boos
--I’m interested in programming just about anything. 
--I’m currently learning C, C++, JS, CSS, HTML, Python, OpenCV
+Collection of screen captures of the 178 billion parameter Neural Network
 ![Github logo](78800556.png "Github logo")
 
 
