@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <div class="container">
 	
 	<h1>SVG Animated Birds</h1>
