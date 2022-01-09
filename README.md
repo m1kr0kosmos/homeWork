@@ -23,6 +23,8 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3I5qr1ej1Xs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+
+
 ### Introduction to AI21
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RD0a7BCXgOQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -40,6 +42,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F79bFRoAGpg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
 
 
+![Github logo](78800556.png "Github logo")
 
 ### Quake III Fast Inverse Square Root Algorithm
 
@@ -47,10 +50,4 @@
 [fastInvSqRtAlgDynProg(3).pdf](https://github.com/mannequinSkywalker/projects-github.io/files/6651848/fastInvSqRtAlgDynProg.3.pdf)
 
 
-
-
-
-(https://jekyllrb.com/)
-
-![Github logo](78800556.png "Github logo")
 
