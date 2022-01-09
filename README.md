@@ -1,6 +1,12 @@
 # -whoami 
 #Will Boos
-
+{ 
+  background: url(images/bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 
 ![Github logo](78800556.png "Github logo")
 
