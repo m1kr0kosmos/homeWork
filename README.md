@@ -85,7 +85,8 @@ if __name__ == "__main__":
             process_frame(frame)
         else:
             break
-`
+```
+
 
 #display.py
 `import sdl2
