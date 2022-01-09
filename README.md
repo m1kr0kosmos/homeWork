@@ -11,7 +11,7 @@
     </style>
 </head>
 <body>
-    <div class="resBg">A division with a resized background image</div>
+    <div class="resBg">GET EXCITED AND MAKE SOMETHING</div>
 </body>
 
 
