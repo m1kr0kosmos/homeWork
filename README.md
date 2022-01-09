@@ -4,7 +4,7 @@
 _CSS__
 ```CSS
 html { 
-  background: url(images/bg.jpg) no-repeat center center fixed; 
+  background: url(78800556.png) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
