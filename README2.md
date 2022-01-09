@@ -14,10 +14,10 @@
     <div class="resBg">A division with a resized background image</div>
 </body>
 
+
 # -whoami 
 #Will Boos
 
-![Github logo](78800556.png "Github logo")
 
 ### AI21 Jurassic 1 Beta Test 0
 
