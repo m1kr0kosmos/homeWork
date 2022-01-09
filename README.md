@@ -1,12 +1,16 @@
 # -whoami 
 #Will Boos
-{ 
-  background: ![Github logo](78800556.png "Github logo") no-repeat center center fixed; 
+
+_CSS__
+```CSS
+html { 
+  background: url(images/bg.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
+```
 
 ![Github logo](78800556.png "Github logo")
 
@@ -19,4 +23,3 @@
 
 
 [fastInvSqRtAlgDynProg(3).pdf](https://github.com/mannequinSkywalker/projects-github.io/files/6651848/fastInvSqRtAlgDynProg.3.pdf)
-
