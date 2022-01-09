@@ -49,7 +49,7 @@
 
 ### witchSLAM toy project (twitchSLAM-George Hotz)
 ```markdown
-`#!/usr/bin/env python3
+#!/usr/bin/env python3
 import time
 import cv2
 import sdl2
@@ -89,7 +89,9 @@ if __name__ == "__main__":
 
 
 #display.py
-`import sdl2
+
+
+import sdl2
 import sdl2.ext
 sdl2.ext.init()
 
@@ -113,9 +115,9 @@ class Display(object):
     
     # blit
     self.window.refresh()
- `
 
 ```
+
 ![Github logo](78800556.png "Github logo")
 
 (https://jekyllrb.com/)
