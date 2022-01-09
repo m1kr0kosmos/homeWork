@@ -41,7 +41,7 @@
 
 
 
-### Short paper on the Quake III Fast Inverse Square Root Algorithm
+### Quake III Fast Inverse Square Root Algorithm
 
 
 [fastInvSqRtAlgDynProg(3).pdf](https://github.com/mannequinSkywalker/projects-github.io/files/6651848/fastInvSqRtAlgDynProg.3.pdf)
