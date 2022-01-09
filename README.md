@@ -85,11 +85,13 @@ if __name__ == "__main__":
             process_frame(frame)
         else:
             break
+            
 ```
 
 
 #display.py
 
+```markdown
 
 import sdl2
 import sdl2.ext
@@ -116,9 +118,8 @@ class Display(object):
     # blit
     self.window.refresh()
 
-```
 
-![Github logo](78800556.png "Github logo")
 
 (https://jekyllrb.com/)
+![Github logo](78800556.png "Github logo")
 
