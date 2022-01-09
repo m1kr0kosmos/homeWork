@@ -1,8 +1,7 @@
 # -whoami 
 #Will Boos
 
-_CSS__
-```CSS
+
 html { 
   background: ![Github logo](78800556.png "Github logo") no-repeat center center fixed; 
   -webkit-background-size: cover;
@@ -10,7 +9,6 @@ html {
   -o-background-size: cover;
   background-size: cover;
 }
-```
 
 ![Github logo](78800556.png "Github logo")
 
