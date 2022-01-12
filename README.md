@@ -1,62 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8" />
-    <title>HTML5 Pacman</title>
-    
-    <style type="text/css">
-      @font-face {
-	    font-family: 'BDCartoonShoutRegular';
-        src: url('BD_Cartoon_Shout-webfont.ttf') format('truetype');
-	    font-weight: normal;
-	    font-style: normal;
-      }
-      #pacman {
-        height:450px;
-        width:342px;
-        margin:20px auto;
-      }
-      #shim { 
-        font-family: BDCartoonShoutRegular; 
-        position:absolute;
-        visibility:hidden
-      }
-      h1 { font-family: BDCartoonShoutRegular; text-align:center; }
-      body { width:342px; margin:0px auto; font-family:sans-serif; }
-      a { text-decoration:none; }
-    </style>
-
-</head>
-
-<body>
-  
-  <div id="shim">shim for font face</div>
-
-  <h1>HTML5 Pacman</h1>
-
-  <a href="http://arandomurl.com/">Writeup</a> |
-  Code on <a href="http://arandomurl.com/">Github</a>
-
-  <div id="pacman"></div>
-  <script src="pacman.js"></script>
-  <script src="modernizr-1.5.min.js"></script>
-
-  <script>
-
-    var el = document.getElementById("pacman");
-
-    if (Modernizr.canvas && Modernizr.localstorage && 
-        Modernizr.audio && (Modernizr.audio.ogg || Modernizr.audio.mp3)) {
-      window.setTimeout(function () { PACMAN.init(el, "./"); }, 0);
-    } else { 
-      el.innerHTML = "Sorry, needs a decent browser<br /><small>" + 
-        "(firefox 3.6+, Chrome 4+, Opera 10+ and Safari 4+)</small>";
-    }
-  </script>
-
-</body>
-</html>
- 
 <head>
     <style>
         .resBg {
@@ -70,19 +11,12 @@
     </style>
 </head>
 <body>
-    <div class="resBg">GET EXCITED AND MAKE SOMETHING</div>
+    <div class="resBg">get excited and make something</div>
 </body>
-
-
-# -whoami 
-#Will Boos
-
 
 ### AI21 Jurassic 1 Beta Test 0
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3I5qr1ej1Xs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-
 
 ### Introduction to AI21
 
@@ -100,4 +34,88 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F79bFRoAGpg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
 
+
+
+### Quake III Fast Inverse Square Root Algorithm
+
+
+[fastInvSqRtAlgDynProg(3).pdf](https://github.com/mannequinSkywalker/projects-github.io/files/6651848/fastInvSqRtAlgDynProg.3.pdf)
+
+
+### witchSLAM toy project (twitchSLAM-George Hotz)
+#### media player
+
+``` 
+#!/usr/bin/env python3
+import time
+import cv2
+import sdl2
+import sdl2.ext
+sdl2.ext.init()
+
+W = 1920//2
+H= 1080//2
+
+window = sdl2.ext.Window("witch SLAM", size=(W,H), position=(-500,-500))
+window.show()
+
+
+
+def process_frame(img):
+    img = cv2.resize(img, (W,H))
+
+    events = sdl2.ext.get_events()
+    for event in events:
+        if event.type == sdl2.SDL_QUIT:
+            exit(0)
+
+    surf = sdl2.ext.pixels2d(window.get_surface())
+    surf[:] = img.swapaxes(0,1)[:, :, 0]
+    window.refresh()
+
+if __name__ == "__main__":
+    cap = cv2.VideoCapture("test1.mp4")
+
+    while cap.isOpened():
+        ret, frame = cap.read()
+        if ret == True:
+            process_frame(frame)
+        else:
+            break
+```
+
+#### display
+```
+import sdl2
+import sdl2.ext
+sdl2.ext.init()
+
+class Display(object):
+    def __init__(self, W, H):
+      sdl2.ext.init()
+
+      self.W, self.H = W, H
+      self.window = sdl2.ext.Window("witch SLAM", size=(W, H), position=(-500,-500))
+      self.window.show()
+      
+    def paint(self, img):
+    # junk
+      events = sdl2.ext.get_events()
+      for event in events:
+        if event.type == sdl2.SDL_QUIT:
+            exit(0)
+    # draw
+    surf = sdl2.ext.pixels3d(self.window.get_surface())
+    surf[:, :, 0:3] = img.swapaxes(0,1) 
+    
+    # blit
+    self.window.refresh()
+ 
+
+```
+![Github logo](78800556.png "Github logo")
+
+
+# -whoami 
+#Will Boos
 
