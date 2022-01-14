@@ -118,6 +118,40 @@
 
 </main>
 
+
+```
+          
+### AI21 Jurassic 1 Beta Test 0
+
+          
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3I5qr1ej1Xs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+          
+### Introduction to AI21
+
+          
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RD0a7BCXgOQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+### Quad Boot
+
+          
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X3cLAE7X10Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+
+
+### BSD Ricing
+
+          
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F79bFRoAGpg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+
+
+![Github logo](78800556.png "Github logo")
+
+
+# -whoami 
+#Will Boos
+          
+```
 <footer class="text-muted">
   <div class="container">
     <p class="float-right">
@@ -130,33 +164,3 @@
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
       <script>window.jQuery || document.write('<script src="../assets/js/vendor/jquery.slim.min.js"><\/script>')</script><script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
 </html>
-
-
-
-### AI21 Jurassic 1 Beta Test 0
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3I5qr1ej1Xs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-### Introduction to AI21
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RD0a7BCXgOQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-
-
-### Quad Boot
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X3cLAE7X10Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
-
-
-
-### BSD Ricing
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F79bFRoAGpg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
-
-
-![Github logo](78800556.png "Github logo")
-
-
-# -whoami 
-#Will Boos
-
