@@ -14,7 +14,6 @@
     <div class="resBg">get excited and make something</div>
 </body>
 
-<!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -54,15 +53,15 @@
     <div class="container">
       <div class="row">
         <div class="col-sm-8 col-md-7 py-4">
-          <h4 class="text-white">m1kr0kosmos</h4>
+          <h4 class="text-muted">m1kr0kosmos</h4>
           <p class="text-muted">Das Lichtmikroskop öffnete das erste Tor zum Mikrokosmos. Das Elektronenmikroskop öffnete das zweite Tor zum Mikrokosmos. Was werden wir finden wenn wir das dritte Tor öffnen? -Ernst Ruska.</p>
         </div>
         <div class="col-sm-4 offset-md-1 py-4">
           <h4 class="text-white">Contact</h4>
           <ul class="list-unstyled">
-            <li><a href="#" class="text-white">Follow on Twitter</a></li>
-            <li><a href="#" class="text-white">Like on Facebook</a></li>
-            <li><a href="#" class="text-white">Email me</a></li>
+            <li><a href="https://www.instagram.com/boos_cl0.os/" class="text-muted">Instagram</a></li>
+            <li><a href="#https://www.facebook.com/will.boos.94" class="text-muted">Facebook</a></li>
+            <li><a href="https://www.linkedin.com/in/will-boos-3aa026207/" class="text-muted">LinkedIn</a></li>
           </ul>
         </div>
       </div>
@@ -111,7 +110,7 @@
       </button>
     </div>
   </div>
-</header>
+
       
 <footer class="text-muted">
   <div class="container">
