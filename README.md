@@ -53,7 +53,7 @@
     <div class="container">
       <div class="row">
         <div class="col-sm-8 col-md-7 py-4">
-          <h4 class="text-white">About</h4>
+          <h4 class="text-muted">About</h4>
           <p class="text-muted">  
 Das Lichtmikroskop öffnete das erste Tor zum Mikrokosmos. Das Elektronenmikroskop öffnete das zweite Tor zum Mikrokosmos. Was werden wir finden wenn wir das dritte Tor öffnen? 
               -Ernst Ruska</p>
@@ -61,9 +61,9 @@ Das Lichtmikroskop öffnete das erste Tor zum Mikrokosmos. Das Elektronenmikrosk
         <div class="col-sm-4 offset-md-1 py-4">
           <h4 class="text-white">Contact</h4>
           <ul class="list-unstyled">
-            <li><a href="#" class="text-muted">Follow on Twitter</a></li>
-            <li><a href="#" class="text-muted">Like on Facebook</a></li>
-            <li><a href="#" class="text-muted">Email me</a></li>
+            <li><a href="https://www.youtube.com/channel/UCTVgPeAsPkx68zEzbdpMnEg" class="text-muted">Follow on YouTube</a></li>
+            //<li><a href="#" class="text-muted">Like on Facebook</a></li>
+            <li><a href="liamb1235@gmail.com" class="text-muted">Email me</a></li>
           </ul>
         </div>
       </div>
@@ -97,19 +97,21 @@ Das Lichtmikroskop öffnete das erste Tor zum Mikrokosmos. Das Elektronenmikrosk
 </main>
 
 
-
-
           
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3I5qr1ej1Xs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+      
           
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RD0a7BCXgOQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      
 
           
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X3cLAE7X10Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+      
 
       
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F79bFRoAGpg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+      
 
 
 <footer class="text-muted">
