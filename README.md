@@ -57,7 +57,40 @@
           <p class="text-muted">  
 Das Lichtmikroskop öffnete das erste Tor zum Mikrokosmos. Das Elektronenmikroskop öffnete das zweite Tor zum Mikrokosmos. Was werden wir finden wenn wir das dritte Tor öffnen? 
               -Ernst Ruska</p>
-        </div>
+        
+<main role="main">
+
+  <section class="jumbotron text-center">
+    <div class="container">
+      <h1>Projects</h1>
+      <p class="lead text-muted">A collection of renders showcasing different work</p>
+      <p>
+        <a href="https://github.com/m1kr0kosmos" class="btn btn-primary my-2">GitHub</a>
+        <a href="https://www.youtube.com/channel/UCTVgPeAsPkx68zEzbdpMnEg" class="btn-sm btn-outline-secondary my-2">  YouTube</a>
+      </p>
+        <h1>AI21 Jurassic 1</h1>
+      <p class="lead text-muted">I was given permission to document, render, and publish beta-testing. Brand new territory. </p>
+      <p>
+          
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3I5qr1ej1Xs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+      
+          
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RD0a7BCXgOQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      
+<h1>Quad Boot</h1>
+      <p class="lead text-muted">Moving boot partitions around to gain access to four Operating Systems.</p>
+      <p>
+          
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X3cLAE7X10Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+      
+<h1>FreeBSD Ricing</h1>
+      <p class="lead text-muted">wiping, formatting, flashing, partitioning, installing Xauthority, graphics, config files,window manager, and ricing</p>
+      <p>
+      
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F79bFRoAGpg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+      
+</div>
         <div class="col-sm-4 offset-md-1 py-4">
           <h4 class="text-white">Contact</h4>
           <ul class="list-unstyled">
@@ -69,31 +102,6 @@ Das Lichtmikroskop öffnete das erste Tor zum Mikrokosmos. Das Elektronenmikrosk
       </div>
     </div>
   </div>
-
-<main role="main">
-
-  <section class="jumbotron text-center">
-    <div class="container">
-      <h1>Projects</h1>
-      <p class="lead text-muted">A collection of renders showcasing different work</p>
-      <p>
-        <a href="https://github.com/m1kr0kosmos" class="btn btn-primary my-2">GitHub</a>
-        <a href="https://www.youtube.com/channel/UCTVgPeAsPkx68zEzbdpMnEg" class="btn-sm btn-outline-secondary my-2">  YouTube</a>
-      </p>
-            
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3I5qr1ej1Xs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-      
-          
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RD0a7BCXgOQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-      
-
-          
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X3cLAE7X10Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
-      
-
-      
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F79bFRoAGpg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
       
     </div>
   </section>
