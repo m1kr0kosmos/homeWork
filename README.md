@@ -53,7 +53,7 @@
     <div class="container">
       <div class="row">
         <div class="col-sm-8 col-md-7 py-4">
-          <h4 class="text-muted">About</h4>
+          <h4 class="text-muted">m1kr0kosmos</h4>
           <p class="text-muted">  
 Das Lichtmikroskop öffnete das erste Tor zum Mikrokosmos. Das Elektronenmikroskop öffnete das zweite Tor zum Mikrokosmos. Was werden wir finden wenn wir das dritte Tor öffnen? 
               -Ernst Ruska</p>
@@ -61,7 +61,7 @@ Das Lichtmikroskop öffnete das erste Tor zum Mikrokosmos. Das Elektronenmikrosk
         <div class="col-sm-4 offset-md-1 py-4">
           <h4 class="text-white">Contact</h4>
           <ul class="list-unstyled">
-            <li><a href="https://www.youtube.com/channel/UCTVgPeAsPkx68zEzbdpMnEg" class="text-muted">YouTube</a></li>
+            <li><a href="https://www.facebook.com/will.boos.94" class="text-muted">Facebook</a></li>
             <li><a href="https://www.instagram.com/boos_cl0.os/" class="text-muted">Instagram</a></li>
             <li><a href="https://www.linkedin.com/in/will-boos-3aa026207/" class="text-muted">LinkedIn</a></li>
           </ul>
@@ -89,8 +89,8 @@ Das Lichtmikroskop öffnete das erste Tor zum Mikrokosmos. Das Elektronenmikrosk
       <h1>Projects</h1>
       <p class="lead text-muted">A collection of renders showcasing different work</p>
       <p>
-        <a href="#" class="btn btn-primary my-2">Main call to action</a>
-        <a href="#" class="btn btn-secondary my-2">Secondary action</a>
+        <a href="#" class="https://github.com/m1kr0kosmos">GitHub</a>
+        <a href="#" class="https://www.youtube.com/channel/UCTVgPeAsPkx68zEzbdpMnEg">Follow me on YouTube!</a>
       </p>
     </div>
   </section>
