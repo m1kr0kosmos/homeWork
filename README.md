@@ -53,8 +53,8 @@
     <div class="container">
       <div class="row">
         <div class="col-sm-8 col-md-7 py-4">
-          <h4 class="text-white">About</h4>
-          <p class="text-muted">Add some information about the album below, the author, or any other background context. Make it a few sentences long so folks can pick up some informative tidbits. Then, link them off to some social networking sites or contact information.</p>
+          <h4 class="text-white">m1kr0kosmos</h4>
+          <p class="text-muted">Das Lichtmikroskop öffnete das erste Tor zum Mikrokosmos. Das Elektronenmikroskop öffnete das zweite Tor zum Mikrokosmos. Was werden wir finden wenn wir das dritte Tor öffnen? -Ernst Ruska</p>
         </div>
         <div class="col-sm-4 offset-md-1 py-4">
           <h4 class="text-white">Contact</h4>
@@ -63,13 +63,12 @@
           <h4 class="text-white">Contact</h4>
           <ul class="list-unstyled">
             <li><a href="https://www.facebook.com/will.boos.94" class="text-muted">Facebook</a></li>
+              
             <li><a href="https://www.instagram.com/boos_cl0.os/" class="text-muted">Instagram</a></li>
+              
             <li><a href="https://www.linkedin.com/in/will-boos-3aa026207/" class="text-muted">LinkedIn</a></li>
           </ul>
-        </div>
-      </div>
-    </div>
-  </div>
+         </div>
       
         
 <main role="main">
@@ -104,12 +103,6 @@
       
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F79bFRoAGpg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
       
-</div>
-    </div>
-  </section>
-
-</main>
-        
   <div class="navbar navbar-dark bg-dark shadow-sm">
     <div class="container d-flex justify-content-between">
       <a href="#" class="navbar-brand d-flex align-items-center">
