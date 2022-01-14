@@ -62,8 +62,8 @@
             <div class="col-sm-4 offset-md-1 py-4">
           <h4 class="text-white">Contact</h4>
           <ul class="list-unstyled">
-<li><a href="https://www.instagram.com/boos_cl0.os/" class="text-muted">Instagram</a></li>
-            <li><a href="https://www.facebook.com/will.boos.94" class="text-muted">Facebook</a></li>
+<li><a href="https://www.instagram.com/boos_cl0.os/" class="text-muted">IG</a></li>
+            <li><a href="https://www.facebook.com/will.boos.94" class="text-muted">FB</a></li>
             <li><a href="https://www.linkedin.com/in/will-boos-3aa026207/" class="text-muted">LinkedIn</a></li>
          </div>
       
