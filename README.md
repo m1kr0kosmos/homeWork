@@ -14,6 +14,8 @@
     <div class="resBg">get excited and make something</div>
 </body>
 
+```HTML
+
 <!doctype html>
 <html lang="en">
   <head>
@@ -253,6 +255,8 @@
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
       <script>window.jQuery || document.write('<script src="../assets/js/vendor/jquery.slim.min.js"><\/script>')</script><script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
 </html>
+
+```
 
 ### AI21 Jurassic 1 Beta Test 0
 
