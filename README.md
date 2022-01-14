@@ -72,23 +72,8 @@ Das Lichtmikroskop öffnete das erste Tor zum Mikrokosmos. Das Elektronenmikrosk
   <div class="navbar navbar-dark bg-dark shadow-sm">
     <div class="container d-flex justify-content-between">
       <a href="#" class="navbar-brand d-flex align-items-center">
-        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" aria-hidden="true" class="mr-2" viewBox="0 0 24 24" focusable="false"><path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z"/><circle cx="12" cy="13" r="4"/></svg>
+        <svg xmlns="https://www.youtube.com/channel/UCTVgPeAsPkx68zEzbdpMnEg" width="20" height="20" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" aria-hidden="true" class="mr-2" viewBox="0 0 24 24" focusable="false"><path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z"/><circle cx="12" cy="13" r="4"/></svg>
         <strong></strong>
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/3I5qr1ej1Xs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-      
-          
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RD0a7BCXgOQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-      
-
-          
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X3cLAE7X10Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
-      
-
-      
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F79bFRoAGpg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
-      
-
       </a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -107,28 +92,7 @@ Das Lichtmikroskop öffnete das erste Tor zum Mikrokosmos. Das Elektronenmikrosk
         <a href="https://github.com/m1kr0kosmos" class="btn btn-primary my-2">GitHub</a>
         <a href="https://www.youtube.com/channel/UCTVgPeAsPkx68zEzbdpMnEg" class="btn-sm btn-outline-secondary my-2">  YouTube</a>
       </p>
-    </div>
-  </section>
-    
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/3I5qr1ej1Xs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-      
-          
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RD0a7BCXgOQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-      
-
-          
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X3cLAE7X10Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
-      
-
-      
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F79bFRoAGpg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
-      
-
-</main>
-
-
-          
+            
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3I5qr1ej1Xs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
       
@@ -143,8 +107,12 @@ Das Lichtmikroskop öffnete das erste Tor zum Mikrokosmos. Das Elektronenmikrosk
       
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F79bFRoAGpg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
       
+    </div>
+  </section>
 
+</main>
 
+      
 <footer class="text-muted">
   <div class="container">
     <p class="float-right">
