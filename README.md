@@ -99,38 +99,20 @@ The light microscope opened the first gate to the microcosm. The electron micros
 
 
 
-          
- AI21 Jurassic 1 Beta Test 0
 
           
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3I5qr1ej1Xs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
           
-Introduction to AI21
-
-          
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RD0a7BCXgOQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-
-Quad Boot
 
           
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X3cLAE7X10Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
 
-
-BSD Ricing
-
-          
+      
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F79bFRoAGpg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
 
 
-![Github logo](78800556.png "Github logo")
-
-
-# -whoami 
-#Will Boos
-          
-```
 <footer class="text-muted">
   <div class="container">
     <p class="float-right">
