@@ -61,9 +61,9 @@ Das Lichtmikroskop öffnete das erste Tor zum Mikrokosmos. Das Elektronenmikrosk
         <div class="col-sm-4 offset-md-1 py-4">
           <h4 class="text-white">Contact</h4>
           <ul class="list-unstyled">
-            <li><a href="https://www.youtube.com/channel/UCTVgPeAsPkx68zEzbdpMnEg" class="text-muted">Follow on YouTube</a></li>
-            //<li><a href="#" class="text-muted">Like on Facebook</a></li>
-            <li><a href="liamb1235@gmail.com" class="text-muted">Email me</a></li>
+            <li><a href="https://www.youtube.com/channel/UCTVgPeAsPkx68zEzbdpMnEg" class="text-muted">YouTube</a></li>
+            //<li><a href="https://www.instagram.com/boos_cl0.os/" class="text-muted">Instagram</a></li>
+            <li><a href="https://www.linkedin.com/in/will-boos-3aa026207/" class="text-muted">LinkedIn</a></li>
           </ul>
         </div>
       </div>
