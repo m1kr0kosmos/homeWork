@@ -1,3 +1,5 @@
+<!doctype html>
+
 <head>
     <style>
         .resBg {
@@ -14,9 +16,7 @@
     <div class="resBg">get excited and make something</div>
 </body>
 
-```HTML
 
-<!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -256,7 +256,7 @@
       <script>window.jQuery || document.write('<script src="../assets/js/vendor/jquery.slim.min.js"><\/script>')</script><script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
 </html>
 
-```
+
 
 ### AI21 Jurassic 1 Beta Test 0
 
