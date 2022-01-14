@@ -89,8 +89,8 @@ Das Lichtmikroskop öffnete das erste Tor zum Mikrokosmos. Das Elektronenmikrosk
       <h1>Projects</h1>
       <p class="lead text-muted">A collection of renders showcasing different work</p>
       <p>
-        <a href="#" class="https://github.com/m1kr0kosmos">GitHub</a>
-        <a href="#" class="https://www.youtube.com/channel/UCTVgPeAsPkx68zEzbdpMnEg">Follow me on YouTube!</a>
+        <a href="https://github.com/m1kr0kosmos" class="btn btn-primary my-2">GitHub</a>
+        <a href="https://www.youtube.com/channel/UCTVgPeAsPkx68zEzbdpMnEg" class="btn-sm btn-outline-secondary my-2">  YouTube</a>
       </p>
     </div>
   </section>
