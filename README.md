@@ -120,3 +120,46 @@
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
       <script>window.jQuery || document.write('<script src="../assets/js/vendor/jquery.slim.min.js"><\/script>')</script><script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
 
+          <!DOCTYPE html>
+<html>
+<head>
+    <title>Bootstrap Carousel</title>
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="https://netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+</head>
+<body>
+<div class="container">
+<h1>Bootstrap Carousel demo</h1>
+<!--The main div for carousel-->
+<div id="carousel-demo" class="carousel slide" data-ride="carousel">
+  <!-- Sliding images statring here --> 
+   <div class="carousel-inner"> 
+    <div class="item"> 
+      <img src="2d.jpg" alt=""> 
+    </div> 
+    <div class="item"> 
+      <img src="3d.jpg" alt=""> 
+   </div> 
+    <div class="item"> 
+      <img src="4d.jpg" alt=""> 
+    </div>
+    <div class="item active"> 
+      <img src="6d.jpg" alt=""> 
+    </div> 
+     
+  </div> 
+  <!-- Next / Previous controls here -->
+  <a class="left carousel-control" href="#carousel-demo" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+  </a>
+  <a class="right carousel-control" href="#carousel-demo" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+  </a>
+ 
+  </div>
+ 
+
+</div>
+</body>
+</html>
