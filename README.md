@@ -83,7 +83,7 @@
         <a href="https://www.linkedin.com/in/will-boos-3aa026207/" class="btn-sm btn-outline-secondary my-2"></a>
       </p>
         <h1>AI21 Jurassic 1</h1>
-      <p class="lead text-muted">I was given permission to document, render, and publish beta-testing. Brand new territory. </p>
+      <p class="lead text-muted"> Beta-Testing AI21 Jurassic 1 </p>
       <p>
           
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3I5qr1ej1Xs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -93,13 +93,13 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RD0a7BCXgOQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       
 <h1>Quad Boot</h1>
-      <p class="lead text-muted">Moving boot partitions around to gain access to four Operating Systems.</p>
+      <p class="lead text-muted">Moving boot partitions around to gain access to four Operating Systems </p>
       <p>
           
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X3cLAE7X10Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
       
 <h1>FreeBSD Ricing</h1>
-      <p class="lead text-muted">wiping, formatting, flashing, partitioning, installing Xauthority, graphics, config files,window manager, and ricing</p>
+      <p class="lead text-muted">wiping, formatting, flashing, partitioning, graphics, config files, and ricing </p>
       <p>
       
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F79bFRoAGpg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
