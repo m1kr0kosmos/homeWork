@@ -125,7 +125,6 @@
   <!-- Sliding images statring here --> 
    <div class="carousel-inner"> 
     <div class="item"> 
-      <img src="7d.jpeg" alt=""> 
     </div> 
     <div class="item"> 
       <img src="6d.jpeg" alt=""> 
@@ -140,10 +139,7 @@
       <img src="3d.jpeg" alt=""> 
    </div> 
     <div class="item"> 
-      <img src="2d.jpg" alt=""> 
-    </div>
-    <div class="item active"> 
-      <img src="1d.jpg" alt=""> 
+      <img src="2d.jpg" alt="">
     </div> 
      
   </div> 
