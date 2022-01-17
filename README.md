@@ -78,9 +78,9 @@
         <a href="https://m1kr0kosmos.github.io/PacMan-Terrarium/" class="btn-sm btn-outline-secondary my-2">  PacMan Terrarium </a>
         <a href="https://github.com/m1kr0kosmos" class="btn btn-primary my-2">GitHub</a>
         <a href="https://www.youtube.com/channel/UCTVgPeAsPkx68zEzbdpMnEg" class="btn-sm btn-outline-secondary my-2">  YouTube</a>
-        <a href="https://www.instagram.com/boos_cl0.os/" class="text-muted">Instagram</a>
-        <a href="https://www.facebook.com/search/top?q=m1kr0kosmos" class="text-muted">Facebook</a>
-        <a href="https://www.linkedin.com/in/will-boos-3aa026207/" class="text-muted">LinkedIn</a>
+        <a href="https://www.instagram.com/boos_cl0.os/" class="btn-sm btn-outline-secondary my-2">Instagram</a>
+        <a href="https://www.facebook.com/search/top?q=m1kr0kosmos" class="btn-sm btn-outline-secondary my-2">Facebook</a>
+        <a href="https://www.linkedin.com/in/will-boos-3aa026207/" class="btn-sm btn-outline-secondary my-2"></a>
       </p>
         <h1>AI21 Jurassic 1</h1>
       <p class="lead text-muted">I was given permission to document, render, and publish beta-testing. Brand new territory. </p>
