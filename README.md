@@ -46,7 +46,12 @@
     </style>
     <!-- Custom styles for this template -->
     <link href="album.css" rel="stylesheet">
-  </head>
+    
+<main role="main">
+
+  <section class="jumbotron text-center">
+    <div class="container">
+        </head>
   <body>
     <header>
   <div class="collapse bg-dark" id="navbarHeader">
@@ -55,7 +60,8 @@
         <div class="col-sm-8 col-md-7 py-4">
           <h4 class="text-muted">m1kr0kosmos</h4>
           <p class="text-muted">Das Lichtmikroskop öffnete das erste Tor zum Mikrokosmos. Das Elektronenmikroskop öffnete das zweite Tor zum Mikrokosmos. Was werden wir finden wenn wir das dritte Tor öffnen? -Ernst Ruska.</p>
-        </div>
+    
+                </div>
         <div class="col-sm-4 offset-md-1 py-4">
           <h4 class="text-white">Contact</h4>
           <ul class="list-unstyled">
@@ -67,10 +73,6 @@
       </div>
     </div>
   </div>
-<main role="main">
-
-  <section class="jumbotron text-center">
-    <div class="container">
      
       <p>
         <a href="https://github.com/m1kr0kosmos" class="btn btn-primary my-2">GitHub</a>
