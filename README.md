@@ -119,31 +119,31 @@
 </head>
 <body>
 <div class="container">
-<h1>Bootstrap Carousel demo</h1>
+<h1>Tasty Rice</h1>
 <!--The main div for carousel-->
 <div id="carousel-demo" class="carousel slide" data-ride="carousel">
   <!-- Sliding images statring here --> 
    <div class="carousel-inner"> 
     <div class="item"> 
-      <img src="7d" alt="banana"> 
+      <img src="7d.jpeg" alt=""> 
     </div> 
     <div class="item"> 
-      <img src="6d" alt="currant"> 
+      <img src="6d.jpeg" alt=""> 
    </div> 
     <div class="item"> 
-      <img src="5d.jpg" alt="mango"> 
+      <img src="5d.jpg" alt=""> 
     </div>
    <div class="item"> 
-      <img src="4d" alt="banana"> 
+      <img src="4d.jpeg" alt=""> 
     </div> 
     <div class="item"> 
-      <img src="3d" alt="currant"> 
+      <img src="3d.jpeg" alt=""> 
    </div> 
     <div class="item"> 
-      <img src="2d.jpg" alt="mango"> 
+      <img src="2d.jpg" alt=""> 
     </div>
     <div class="item active"> 
-      <img src="1d.jpg" alt="strawberries"> 
+      <img src="1d.jpg" alt=""> 
     </div> 
      
   </div> 
