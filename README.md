@@ -109,7 +109,7 @@
       </button>
     </div>
   </div>
-<!DOCTYPE html>
+
 <html>
 <head>
     <title>Bootstrap Carousel</title>
@@ -124,22 +124,26 @@
 <div id="carousel-demo" class="carousel slide" data-ride="carousel">
   <!-- Sliding images statring here --> 
    <div class="carousel-inner"> 
-    <div class="item"> 
+   <div class="item"> 
+      <img src="1d.jpg" alt=""> 
     </div> 
-    <div class="item"> 
-      <img src="6d.jpeg" alt=""> 
-   </div> 
+   <div class="item"> 
+      <img src="2d.jpg" alt=""> 
+     </div>
+    <div class="item active"> 
+      <img src="3d.jpg" alt=""> 
+     </div> 
+    <div class="item active"> 
+      <img src="4d.jpg" alt=""> 
+     </div> 
     <div class="item"> 
       <img src="5d.jpg" alt=""> 
-    </div>
-   <div class="item"> 
-      <img src="4d.jpeg" alt=""> 
-    </div> 
+     </div> 
     <div class="item"> 
-      <img src="3d.jpeg" alt=""> 
-   </div> 
-    <div class="item"> 
-      <img src="2d.jpg" alt="">
+      <img src="6d.jpg" alt=""> 
+     </div>
+    <div class=""> 
+      <img src="7d.jpg" alt=""> 
     </div> 
      
   </div> 
