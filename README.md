@@ -109,6 +109,58 @@
       </button>
     </div>
   </div>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bootstrap Carousel</title>
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="https://netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+</head>
+<body>
+<div class="container">
+<h1>Bootstrap Carousel demo</h1>
+<!--The main div for carousel-->
+<div id="carousel-demo" class="carousel slide" data-ride="carousel">
+  <!-- Sliding images statring here --> 
+   <div class="carousel-inner"> 
+    <div class="item"> 
+      <img src="7d" alt="banana"> 
+    </div> 
+    <div class="item"> 
+      <img src="6d" alt="currant"> 
+   </div> 
+    <div class="item"> 
+      <img src="5d.jpg" alt="mango"> 
+    </div>
+   <div class="item"> 
+      <img src="4d" alt="banana"> 
+    </div> 
+    <div class="item"> 
+      <img src="3d" alt="currant"> 
+   </div> 
+    <div class="item"> 
+      <img src="2d.jpg" alt="mango"> 
+    </div>
+    <div class="item active"> 
+      <img src="1d.jpg" alt="strawberries"> 
+    </div> 
+     
+  </div> 
+  <!-- Next / Previous controls here -->
+  <a class="left carousel-control" href="#carousel-demo" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+  </a>
+  <a class="right carousel-control" href="#carousel-demo" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+  </a>
+ 
+  </div>
+ 
+
+</div>
+</body>
+</html>
 
       
 <footer class="text-muted">
