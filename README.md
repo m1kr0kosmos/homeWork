@@ -146,6 +146,15 @@
     </div>
     <div class="item active"> 
       <img src="6d.jpeg" alt=""> 
+        </div>
+    <div class="item active"> 
+      <img src="5d.jpeg" alt=""> 
+        </div>
+    <div class="item active"> 
+      <img src="7d.jpeg" alt=""> 
+        </div>
+    <div class="item active"> 
+      <img src="1d.jpeg" alt=""> 
     </div> 
      
   </div> 
