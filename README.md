@@ -109,7 +109,7 @@
       </button>
     </div>
   </div>
-
+<!DOCTYPE html>
 <html>
 <head>
     <title>Bootstrap Carousel</title>
@@ -119,31 +119,22 @@
 </head>
 <body>
 <div class="container">
-<h1>Tasty Rice</h1>
+<h1>Bootstrap Carousel demo</h1>
 <!--The main div for carousel-->
 <div id="carousel-demo" class="carousel slide" data-ride="carousel">
   <!-- Sliding images statring here --> 
    <div class="carousel-inner"> 
-   <div class="item"> 
-      <img src="1d.jpg" alt=""> 
+    <div class="item"> 
+      <img src="2d.jpg" alt="banana"> 
     </div> 
-   <div class="item"> 
-      <img src="2d.jpg" alt=""> 
-     </div>
-    <div class="item active"> 
-      <img src="3d.jpg" alt=""> 
-     </div> 
-    <div class="item active"> 
-      <img src="4d.jpg" alt=""> 
-     </div> 
     <div class="item"> 
-      <img src="5d.jpg" alt=""> 
-     </div> 
+      <img src="3d.jpg" alt="currant"> 
+   </div> 
     <div class="item"> 
-      <img src="6d.jpg" alt=""> 
-     </div>
-    <div class=""> 
-      <img src="7d.jpg" alt=""> 
+      <img src="4d.jpg" alt="mango"> 
+    </div>
+    <div class="item active"> 
+      <img src="6d.jpg" alt="strawberries"> 
     </div> 
      
   </div> 
@@ -162,7 +153,7 @@
 </body>
 </html>
 
-      
+
 <footer class="text-muted">
   <div class="container">
     <p class="float-right">
