@@ -168,4 +168,14 @@
 
 </div>
 </body>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Fast Inverse Square Root Algorithm</title>
+  </head>
+  <body>
+    <h1>How to disable downloading of the PDF document</h1>
+    <iframe src="fastInvSqRt.pdf#toolbar=0" width="100%" height="500px">
+    </iframe>
+  </body>
 </html>
