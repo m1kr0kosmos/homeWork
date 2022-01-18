@@ -81,7 +81,7 @@
         <a href="https://www.instagram.com/boos_cl0.os/" class="btn btn-primary my-2">Instagram</a>
         <a href="https://www.facebook.com/search/top?q=m1kr0kosmos" class="btn btn-primary my-2">Facebook</a>
         <a href="https://www.linkedin.com/in/will-boos-3aa026207/" class="btn btn-primary my-2">LinkedIn</a>
-          [Link display text - Email](mailto:liamengineer01@protonmail.com.com)
+          [Email](mailto:liamengineer01@protonmail.com)
       </p>
         <h1>%whoami</h1>
       <p class="lead text-muted">Hey, Google, Siri, Alexa, and hello to the wonderful world of humans as well! I am Will :D I <3 programming, and tinkering with electronics in general. Enjoyed distro-hopping throgh Linux, but left for FreeBSD, recently. I am working on a toy SLAM (Simultaneous Localization and Mapping) implementation during my free time. I am studying MMIX A RISC Computer for the New Millennium. THREE.js has been a fun new adventure, as well as beta-testing Jurassic 1 from AI21. I want to take the Open Box project further, and would like to use THREE.js to make a 3D Pacman game. I want to learn R, and Swift, after I better grasp C, C++, C#, Python, JavaScript, HTML, CSS, and some low level Binary and Assembly on my BSD machine. See above for links to my MIT course projects, Map Navigation, Eye Movement, Pacman Terrarium, Tower of Hanoi, as well as my Social Media! Please reach out to me at any of those links or email me.</p>
@@ -108,8 +108,6 @@
       
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F79bFRoAGpg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
       
-  <div class="navbar navbar-dark bg-dark shadow-sm">
-    <div class="container d-flex justify-content-between">
       <a href="#" class="navbar-brand d-flex align-items-center">
         <svg xmlns="https://www.youtube.com/channel/UCTVgPeAsPkx68zEzbdpMnEg" width="20" height="20" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" aria-hidden="true" class="mr-2" viewBox="0 0 24 24" focusable="false"><path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z"/><circle cx="12" cy="13" r="4"/></svg>
         <strong></strong>
