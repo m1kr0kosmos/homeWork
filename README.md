@@ -60,7 +60,13 @@
         <div class="col-sm-8 col-md-7 py-4">
           <h4 class="text-muted">m1kr0kosmos</h4>
           <p class="text-muted">Das Lichtmikroskop öffnete das erste Tor zum Mikrokosmos. Das Elektronenmikroskop öffnete das zweite Tor zum Mikrokosmos. Was werden wir finden wenn wir das dritte Tor öffnen? -Ernst Ruska.</p>
-    
+      </a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+    </div>
+  </div>
+
                 </div>
         <div class="col-sm-4 offset-md-1 py-4">
           <h4 class="text-white">Contact</h4>
