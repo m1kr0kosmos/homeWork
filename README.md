@@ -83,7 +83,7 @@
         <a href="https://www.linkedin.com/in/will-boos-3aa026207/" class="btn btn-primary my-2">LinkedIn</a>
         <a href = "mailto: liamengineer01@protonmail.com" class="btn btn-primary my-2">EMAIL</a>
       </p>
-        <h1>%whoami</h1>
+        <h1>ok@stuff:~ # whoami</h1>
       <p class="lead text-muted">Hey, Google, Siri, Alexa, and hello to the wonderful world of humans as well! I am Will :D I <3 programming, and tinkering with electronics in general. Enjoyed distro-hopping throgh Linux, but left for FreeBSD, recently. I am working on a toy SLAM (Simultaneous Localization and Mapping) implementation during my free time. I am studying MMIX A RISC Computer for the New Millennium. THREE.js has been a fun new adventure, as well as beta-testing Jurassic 1 from AI21. I want to take the Open Box project further, and would like to use THREE.js to make a 3D Pacman game. I want to learn R, and Swift, after I better grasp C, C++, C#, Python, JavaScript, HTML, CSS, and some low level Binary and Assembly on my BSD machine. See above for links to my MIT course projects, Map Navigation, Eye Movement, Pacman Terrarium, Tower of Hanoi, as well as my Social Media! Please reach out to me at any of those links or email me.</p>
       <p>
         <h1>AI21 Jurassic 1</h1>
