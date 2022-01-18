@@ -80,7 +80,7 @@
         <a href="https://www.youtube.com/channel/UCTVgPeAsPkx68zEzbdpMnEg" class="btn btn-primary my-2">  YouTube</a>
         <a href="https://www.instagram.com/boos_cl0.os/" class="btn btn-primary my-2">Instagram</a>
         <a href="https://www.facebook.com/search/top?q=m1kr0kosmos" class="btn btn-primary my-2">Facebook</a>
-        <a href="https://www.linkedin.com/in/will-boos-3aa026207/" class="btn btn-primary my-2"></a>
+        <a href="https://www.linkedin.com/in/will-boos-3aa026207/" class="btn btn-primary my-2">LinkedIn</a>
       </p>
         <h1>AI21 Jurassic 1</h1>
       <p class="lead text-muted"> Beta-Testing AI21 Jurassic 1 </p>
