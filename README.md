@@ -83,31 +83,32 @@
         <a href="https://www.linkedin.com/in/will-boos-3aa026207/" class="btn btn-primary my-2">LinkedIn</a>
         <a href = "mailto: liamengineer01@protonmail.com" class="btn btn-primary my-2">EMAIL</a>
       </p>
-        <h1>fire@will:~ # whoami</h1>
-      <p class="lead text-muted">Hey, Google, and hello to the beautiful world of humans, as well! I am Will :D I <3 programming, and tinkering with electronics in general. Enjoyed distro-hopping throgh Linux, but left for FreeBSD, recently. I am working on a toy SLAM (Simultaneous Localization and Mapping) implementation. I am studying MMIX A RISC Computer for the New Millennium. THREE.js has been a fun new adventure, as well as beta-testing Jurassic 1 from AI21. I want to take the Open Box project further, and would like to use THREE.js to make a 3D Pacman game. I want to learn R and Swift, after I better grasp C, C++, C#, Python, JavaScript, HTML, CSS, and some low level Binary and Assembly on my BSD machine. Below screenshots is a short PDF I wrote, trying to understand C while learning LaTeX. See above for links to my MIT course projects, Map Navigation, Eye Movement, Pacman Terrarium, Tower of Hanoi, as well as my Social Media! Please reach out to me at any of those links or email me.</p>
+        <h1>home@work:~ # cd ./projects</h1>
+      <p class="lead text-muted">below are links to my pages</p>
       <p>
-        <h1>AI21 Jurassic 1</h1>
-      <p class="lead text-muted"> Beta-Testing AI21 Jurassic 1 </p>
-      <p>
-          
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3I5qr1ej1Xs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-      
-          
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RD0a7BCXgOQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-      
-<h1>Quad Boot</h1>
-      <p class="lead text-muted">Moving boot partitions around to gain access to four Operating Systems </p>
+        <h1>Map Navigation</h1>
+      <p class="lead text-muted">Deploy open-source map and pin bus stops between MIT & Harvard</p>
       <p>
           
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X3cLAE7X10Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="https://m1kr0kosmos.github.io/Map/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       
-<h1>FreeBSD Ricing</h1>
-      <p class="lead text-muted">wiping, formatting, flashing, partitioning, graphics, config files, and ricing </p>
+<h1>Eye Movement</h1>
+      <p class="lead text-muted">Interactive environment triggered by mouse</p>
+      <p>
+          
+<iframe width="560" height="315" src="https://m1kr0kosmos.github.io/eyeMovement/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+      
+<h1>Tower of Hanoi</h1>
+      <p class="lead text-muted">Graphical implementation of classic brain-teaser</p>
       <p>
       
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F79bFRoAGpg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
-      
+<iframe width="560" height="315" src="https://m1kr0kosmos.github.io/TowerOfHanoi/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+ 
+<h1>Pacman-Terrarium</h1>
+      <p class="lead text-muted">Interactive environment triggered by mouse</p>
+      <p>
+          
+<iframe width="560" height="315" src="https://m1kr0kosmos.github.io/PacMan-Terrarium/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>           
   <div class="navbar navbar-dark bg-dark shadow-sm">
     <div class="container d-flex justify-content-between">
       <a href="#" class="navbar-brand d-flex align-items-center">
