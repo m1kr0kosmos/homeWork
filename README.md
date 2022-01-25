@@ -72,12 +72,12 @@
   </div>
      
       <p>
-        <a href="https://github.com/m1kr0kosmos" class="btn btn-primary my-2">GitHub</a>
-        <a href="https://www.youtube.com/channel/UCTVgPeAsPkx68zEzbdpMnEg" class="btn btn-primary my-2">  YouTube</a>
-        <a href="https://www.instagram.com/boos_cl0.os/" class="btn btn-primary my-2">Instagram</a>
-        <a href="https://www.facebook.com/search/top?q=m1kr0kosmos" class="btn btn-primary my-2">Facebook</a>
-        <a href="https://www.linkedin.com/in/will-boos-3aa026207/" class="btn btn-primary my-2">LinkedIn</a>
-        <a href = "mailto: liamengineer01@protonmail.com" class="btn btn-primary my-2">EMAIL</a>
+        <a href="https://github.com/m1kr0kosmos" class="btn btn-primary mb1 black bg-aqua">GitHub</a>
+        <a href="https://www.youtube.com/channel/UCTVgPeAsPkx68zEzbdpMnEg" class="btn btn-primary mb1 bg-olive">  YouTube</a>
+        <a href="https://www.instagram.com/boos_cl0.os/" class="btn btn-primary mb1 bg-lime">Instagram</a>
+        <a href="https://www.facebook.com/search/top?q=m1kr0kosmos" class="btn btn-primary mb1 bg-fuchsia">Facebook</a>
+        <a href="https://www.linkedin.com/in/will-boos-3aa026207/" class="btn btn-primary mb1 bg-purple">LinkedIn</a>
+        <a href = "mailto: liamengineer01@protonmail.com" class="btn btn-primary mb1 bg-maroon">EMAIL</a>
       </p>
        
         <h1>Map Navigation</h1>
@@ -86,7 +86,7 @@
           
 <iframe width="560" height="315" src="https://m1kr0kosmos.github.io/Map/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
           
-          <a href="https://m1kr0kosmos.github.io/Map/" class="btn btn-primary my-2">  Map Navigation </a>
+          <a href="https://m1kr0kosmos.github.io/Map/" class="btn btn-primary mb1 black bg-darken-1">  Map Navigation </a>
       
 <h1>Eye Movement</h1>
       <p class="lead text-muted">Interactive environment triggered by mouse</p>
@@ -94,7 +94,7 @@
           
 <iframe width="560" height="315" src="https://m1kr0kosmos.github.io/eyeMovement/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
           
-          <a href="https://m1kr0kosmos.github.io/eyeMovement/" class="btn btn-primary my-2">  Eye Movement </a>
+          <a href="https://m1kr0kosmos.github.io/eyeMovement/" class="btn btn-primary mb1 black bg-darken-2">  Eye Movement </a>
       
 <h1>Tower of Hanoi</h1>
       <p class="lead text-muted">Graphical implementation of classic brain-teaser</p>
@@ -102,7 +102,7 @@
       
 <iframe width="560" height="315" src="https://m1kr0kosmos.github.io/TowerOfHanoi/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
           
-          <a href="https://m1kr0kosmos.github.io/TowerOfHanoi/" class="btn btn-primary my-2">  Tower of Hanoi </a>
+          <a href="https://m1kr0kosmos.github.io/TowerOfHanoi/" class="btn btn-primary mb1 black bg-darken-3">  Tower of Hanoi </a>
  
 <h1>Pacman-Terrarium</h1>
       <p class="lead text-muted">Interactive environment triggered by mouse</p>
@@ -110,7 +110,7 @@
           
 <iframe width="560" height="315" src="https://m1kr0kosmos.github.io/PacMan-Terrarium/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
           
-          <a href="https://m1kr0kosmos.github.io/PacMan-Terrarium/" class="btn btn-primary my-2">  PacMan Terrarium </a>
+          <a href="https://m1kr0kosmos.github.io/PacMan-Terrarium/" class="btn btn-primary mb1 black bg-darken-4">  PacMan Terrarium </a>
           
           
 <h1>./homeWork</h1>
@@ -122,7 +122,7 @@
           
 <iframe width="560" height="315" src="https://m1kr0kosmos.github.io/Projects/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
           
-          <a href="https://m1kr0kosmos.github.io/Projects/" class="btn btn-primary my-2">./Projects</a>
+          <a href="https://m1kr0kosmos.github.io/Projects/" class="btn btn-primary mb1 black bg-silver">./projects</a>
           
   <div class="navbar navbar-dark bg-dark shadow-sm">
     <div class="container d-flex justify-content-between">
@@ -137,7 +137,7 @@
 <footer class="text-muted">
   <div class="container">
     <p class="float-right">
-      <a href= "#" class="btn btn-primary my-2">Back to top</a>
+      <a href= "#" class="btn btn-primary mb1 bg-black">Back to top</a>
     </p>
   </div>
 </footer>
