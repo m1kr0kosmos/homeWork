@@ -89,24 +89,32 @@
       <p>
           
 <iframe width="560" height="315" src="https://m1kr0kosmos.github.io/Map/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+          
+          <a href="https://m1kr0kosmos.github.io/Map/" class="btn btn-primary my-2">  Map Navigation </a>
       
 <h1>Eye Movement</h1>
       <p class="lead text-muted">Interactive environment triggered by mouse</p>
       <p>
           
 <iframe width="560" height="315" src="https://m1kr0kosmos.github.io/eyeMovement/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+          
+          <a href="https://m1kr0kosmos.github.io/eyeMovement/" class="btn btn-primary my-2">  Eye Movement </a>
       
 <h1>Tower of Hanoi</h1>
       <p class="lead text-muted">Graphical implementation of classic brain-teaser</p>
       <p>
       
 <iframe width="560" height="315" src="https://m1kr0kosmos.github.io/TowerOfHanoi/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+          
+          <a href="https://m1kr0kosmos.github.io/TowerOfHanoi/" class="btn btn-primary my-2">  Tower of Hanoi </a>
  
 <h1>Pacman-Terrarium</h1>
       <p class="lead text-muted">Interactive environment triggered by mouse</p>
       <p>         
           
 <iframe width="560" height="315" src="https://m1kr0kosmos.github.io/PacMan-Terrarium/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+          
+          <a href="https://m1kr0kosmos.github.io/PacMan-Terrarium/" class="btn btn-primary my-2">  PacMan Terrarium </a>
           
           
 <h1>./homeWork</h1>
@@ -175,17 +183,3 @@
  
   </div>
  
-
-</div>
-</body>
-
-<html>
-  <head>
-    <title>Fast Inverse Square Root Algorithm</title>
-  </head>
-  <body>
-    <h1>Fast Inverse Square Root Algorithm</h1>
-    <iframe src="fastInvSqRt.pdf#toolbar=0" width="100%" height="500px">
-    </iframe>
-  </body>
-</html>
