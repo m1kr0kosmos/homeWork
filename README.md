@@ -117,6 +117,15 @@
       <p class="lead text-muted">Interactive environment triggered by mouse</p>
       <p>
           
+<h1>./homeWork</h1>
+      <p class="lead text-muted">beta-interactive renders of pages linked above</p>
+      <p>
+        <h1>./projects</h1>
+      <p class="lead text-muted">Link and interactive render of home page</p>
+      <p>
+          
+<iframe width="560" height="315" src="https://m1kr0kosmos.github.io/Projects/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>          
+          
 <iframe width="560" height="315" src="https://m1kr0kosmos.github.io/PacMan-Terrarium/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>           
   <div class="navbar navbar-dark bg-dark shadow-sm">
     <div class="container d-flex justify-content-between">
