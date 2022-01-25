@@ -83,8 +83,8 @@
         <a href="https://www.linkedin.com/in/will-boos-3aa026207/" class="btn btn-primary my-2">LinkedIn</a>
         <a href = "mailto: liamengineer01@protonmail.com" class="btn btn-primary my-2">EMAIL</a>
       </p>
-        <h1>home@work:~ # cd ./projects</h1>
-      <p class="lead text-muted">below are links to my pages</p>
+        <h1>home@work:~ # cd ./homeWork</h1>
+      <p class="lead text-muted">beta-interactive renders of pages linked above</p>
       <p>
         <h1>Map Navigation</h1>
       <p class="lead text-muted">Deploy open-source map and pin bus stops between MIT & Harvard</p>
