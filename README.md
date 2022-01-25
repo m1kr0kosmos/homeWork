@@ -83,9 +83,18 @@
         <a href="https://www.linkedin.com/in/will-boos-3aa026207/" class="btn btn-primary my-2">LinkedIn</a>
         <a href = "mailto: liamengineer01@protonmail.com" class="btn btn-primary my-2">EMAIL</a>
       </p>
-        <h1>home@work:~ # cd ./homeWork</h1>
+        <h1>./homeWork</h1>
       <p class="lead text-muted">beta-interactive renders of pages linked above</p>
       <p>
+        <h1>./projects</h1>
+      <p class="lead text-muted">Link and interactive render of home page</p>
+      <p>
+          
+<iframe width="560" height="315" src="https://m1kr0kosmos.github.io/Projects/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  
+          <a href = "https://m1kr0kosmos.github.io/Projects/" class="btn btn-primary my-2">./projects</a>
+      </p>    
+        
         <h1>Map Navigation</h1>
       <p class="lead text-muted">Deploy open-source map and pin bus stops between MIT & Harvard</p>
       <p>
