@@ -126,6 +126,8 @@
           
 <iframe width="560" height="315" src="https://m1kr0kosmos.github.io/Projects/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
           
+          <a href="https://m1kr0kosmos.github.io/Projects/" class="btn btn-primary my-2">./Projects</a>
+          
   <div class="navbar navbar-dark bg-dark shadow-sm">
     <div class="container d-flex justify-content-between">
       <a href="#" class="navbar-brand d-flex align-items-center">
