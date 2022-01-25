@@ -72,10 +72,6 @@
   </div>
      
       <p>
-        <a href="https://m1kr0kosmos.github.io/Map/" class="btn btn-primary my-2">  Map Navigation </a>
-        <a href="https://m1kr0kosmos.github.io/eyeMovement/" class="btn btn-primary my-2">  Eye Movement </a>
-        <a href="https://m1kr0kosmos.github.io/TowerOfHanoi/" class="btn btn-primary my-2">  Tower of Hanoi </a>
-        <a href="https://m1kr0kosmos.github.io/PacMan-Terrarium/" class="btn btn-primary my-2">  PacMan Terrarium </a>
         <a href="https://github.com/m1kr0kosmos" class="btn btn-primary my-2">GitHub</a>
         <a href="https://www.youtube.com/channel/UCTVgPeAsPkx68zEzbdpMnEg" class="btn btn-primary my-2">  YouTube</a>
         <a href="https://www.instagram.com/boos_cl0.os/" class="btn btn-primary my-2">Instagram</a>
@@ -141,7 +137,7 @@
 <footer class="text-muted">
   <div class="container">
     <p class="float-right">
-      <a href="#">Back to top</a>
+      <a href= "#" class="btn btn-primary my-2">Back to top</a>
     </p>
   </div>
 </footer>
