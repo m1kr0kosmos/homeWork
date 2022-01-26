@@ -112,10 +112,6 @@
           
           <a href="https://m1kr0kosmos.github.io/PacMan-Terrarium/" class="btn btn-primary mb1 bg-purple">  PacMan Terrarium </a>
           
-          
-<h1>./homeWork</h1>
-      <p class="lead text-muted">beta-interactive renders of pages linked above</p>
-      <p>
         <h1>./projects</h1>
       <p class="lead text-muted">Link and interactive render of home page</p>
       <p>
