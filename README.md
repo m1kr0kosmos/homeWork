@@ -2,13 +2,11 @@
     <style>
         .resBg {
             padding: 30px;
-               { 
-  background: url(image-asset.jpeg) no-repeat center center fixed; 
+            background: url(image-asset.jpeg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-}
         }
     </style>
 </head>
@@ -72,7 +70,6 @@
       </div>
     </div>
   </div>
-     
       <p>
         <a href="https://github.com/m1kr0kosmos" class="btn btn-primary mb1 bg-purple">GitHub</a>
         <a href="https://www.youtube.com/channel/UCTVgPeAsPkx68zEzbdpMnEg" class="btn btn-primary mb1 bg-purple">  YouTube</a>
