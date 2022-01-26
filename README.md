@@ -2,11 +2,13 @@
     <style>
         .resBg {
             padding: 30px;
-            background: url(image-asset.jpeg) no-repeat center center fixed; 
+               { 
+  background: url(image-asset.jpeg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
         }
     </style>
 </head>
